@@ -51,7 +51,7 @@ gamma, tau, rms_error, rel_error, aire = gamma(Z_im_meas,frequence)
 
 plot_drt(tau, gamma, title="DRT_Im")
 
-
+print("Bonjour")
 #CorrigeDRT, afficher erreurs RMS, mettre le même nombre de points par décade ? 
 
 # %% lecture test OCV 
